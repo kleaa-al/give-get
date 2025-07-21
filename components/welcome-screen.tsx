@@ -20,8 +20,8 @@ export function WelcomeScreen() {
       <div className="w-full max-w-sm space-y-8">
         <div className="text-center space-y-6">
           <div className="flex justify-center">
-            <div className="w-32 h-32 bg-gradient-to-br from-orange-400 to-red-500 rounded-3xl flex items-center justify-center shadow-lg">
-              <span className="text-white text-4xl font-bold">G&G</span>
+            <div className="w-32 h-32 flex items-center justify-center">
+              <img src="/logo.jpeg" alt="Give & Get Logo" className="w-full h-full object-contain" />
             </div>
           </div>
           <div className="space-y-3">
