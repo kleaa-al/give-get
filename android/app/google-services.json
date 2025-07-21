@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376352856132",
+    "project_id": "cfa2024",
+    "storage_bucket": "cfa2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376352856132:android:your_android_app_id",
+        "android_client_info": {
+          "package_name": "com.giveandgetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRKR4HCGOuogEmrIqBjZ1nIfRxqSB6zT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
